@@ -57,7 +57,7 @@ class MaskGenerator:
         mask = np.zeros((h, w), dtype=np.float32)
 
         # Offset ratio: move center from fingertip toward MCP by this percentage of finger length
-        # Adjust between 0.3-0.5 for best results
+        # Adjust between 0.05-0.12 for best results
         OFFSET_RATIO = 0.07
 
         # Map fingertip indices to MCP (knuckle) indices for size calculation
