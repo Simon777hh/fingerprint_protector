@@ -1,0 +1,9 @@
+data
+debug_mask.jpg
+protected_hand.jpg
+selfie.jpg
+*.jpg
+*.jpeg
+*.png
+.idea/
+__pycache__/
