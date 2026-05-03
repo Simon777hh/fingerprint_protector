@@ -159,7 +159,6 @@ Simple GUI (e.g., Gradio / Tkinter)
 
 Adjustable blur strength via CLI argument
 
-Export mask as separate file option
 
 ## 📝 License
 This project is licensed under the MIT License — see the LICENSE file for details.
