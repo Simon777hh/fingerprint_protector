@@ -148,7 +148,8 @@ Currently a personal student project with the following known limitations:
 | 7 | Limited gesture coverage | Only 18 gestures supported. Custom gestures require retraining. |
 | 8 | No video support | Static images only. Real-time video stream protection is not available. |
 
-Planned Features:
+**Planned Features:**
+
 Multi-hand detection and protection
 
 Real-time camera preview with overlay
